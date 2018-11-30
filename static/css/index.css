@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover
+{
+	color:red;
+}
+
+body {
+    font-family: "Microsoft Yahei","Arial", "Helvetica", "sans-serif";
+    margin: 0;
+    padding: 0;
+    background: #EEEEEE;
+}
